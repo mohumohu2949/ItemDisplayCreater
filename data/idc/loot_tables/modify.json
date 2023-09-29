@@ -1,0 +1,20 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:carrot_on_a_stick",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'{\"text\":\"nbt変更用\",\"color\":\"green\",\"italic\":false}'},idc:rod}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

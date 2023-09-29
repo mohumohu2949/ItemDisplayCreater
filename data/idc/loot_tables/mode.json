@@ -1,0 +1,20 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:warped_fungus_on_a_stick",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'{\"text\":\"モード切り替え用\",\"color\":\"gold\",\"italic\":false}'},idc:rod}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
