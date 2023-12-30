@@ -1,6 +1,6 @@
 #> idc:click/modify/
 #   # modify変更用をクリックしたときの処理
-# @within advancement idc:modify
+# @within function idc:tick
 
 ##  1 : summon
 ##  2 : 選択

@@ -1,12 +1,6 @@
 #> idc:index.d
 # @private
 
-#> Advancements
-# @within function idc:**
-    #declare advancement idc:selecteditem
-    #declare advancement idc:mode
-    #declare advancement idc:modify
-
 #> Loot_tables
 # @within function idc:**
     #declare loot_table idc:mode

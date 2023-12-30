@@ -1,6 +1,6 @@
 #> idc:click/mode/
 #   # mode変更用をクリックしたときの処理
-# @within advancement idc:mode
+# @within function idc:tick
 
 # playsound
     playsound minecraft:entity.experience_orb.pickup master @s ~ ~ ~ 1 2

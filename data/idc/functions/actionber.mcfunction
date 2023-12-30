@@ -1,6 +1,6 @@
 #> idc:actionber
 #   # アイテムを手に持っている時に常時実行する処理
-# @within advancement idc:selecteditem
+# @within function idc:tick
 
 ##  1 : summon
 ##  2 : 選択
